@@ -1,5 +1,7 @@
 ### Hi there 👋
-
+재밌는 게임을 만들기 위해 공부 중인 학생입니다.
+C#, C++, JAVA를 다룰 줄 알고
+주로 Unity3D를 활용합니다.
 <!--
 **AripyKSU/AripyKSU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
